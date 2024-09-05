@@ -1,0 +1,29 @@
+---
+import { Picture } from 'astro:assets';
+import img from '~/assets/undraw_dog_c7i6.svg';
+import { SiteDescription, SiteTitle } from '~/config';
+import MarkdownLayout from '~/layouts/MarkdownLayout.astro';
+---
+
+<MarkdownLayout
+	title={SiteTitle}
+	description={SiteDescription}
+	hide={['title', 'comments']}
+	currentNav="Home"
+>
+	<div class="flex flex-col items-center gap-4 xl:flex-row">
+		<Picture class="lg:max-w-md" src={img} formats={['avif', 'webp']} alt="Dog" loading="eager" />
+		<div>
+			<h1>Hey! I'm Shreyash</h1>
+			<p>
+			A Security Researcher, Professional Procrastinator, and Unapologetic Motorsports Addict.
+			</p>
+			<p>
+			When I’m not busy breaking into systems (ethically, of course), I’m knee-deep into Machine Learning shenanigans or trolling on the Internet. You’ll catch me ranting about Cybersecurity, Tech Disasters, or the latest Motorsports drama. When I’m on a break, I’m probably messing around with my obscure tech projects or building custom Mechanical Keyboards—because typing 150 words per minute just feels better when you’ve soldered the switches yourself.
+			</p>
+			<p>
+			I’m active on random Image Boards and sometimes rant about Cybersecurity and Machine Learning on my blog. If you want to chat about Tech or F1, hit me up, and we can chat over coffee.
+			</p>
+		</div>
+	</div>
+</MarkdownLayout>
