@@ -2,8 +2,8 @@
 title: Sample
 slug: sample
 description: "A Sample Page Showcasing the Website's Theme and Design Elements."
-date: 2024-00-00T00:00:00+05:30
-lastmod: 2024-00-00T00:00:00+05:30
+date: 2024-01-01T01:01:01+05:30
+lastmod: 2024-01-01T01:01:01+05:30
 hidden: true
 tags:
   - Secret
