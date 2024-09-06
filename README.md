@@ -1,4 +1,4 @@
-# ZeroDread's Shitshow 🚀
+# ZeroDread's Shitshow
 
 This repo houses the source code for my personal ~cesspool~ website, built with [Astro](https://astro.build) and deployed using [Bun](https://bun.sh/). It’s hooked up to [Cloudflare Pages](https://pages.cloudflare.com/) because speed matters and, well, I don’t want to deal with slow-ass hosting.
 
