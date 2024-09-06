@@ -4,13 +4,11 @@ slug: tasknest
 description: "TaskNest connects local communities by facilitating task exchanges and social interactions. This scalable platform, inspired by RPG quest boards, allows users to post and accept tasks within residential societies, educational institutions, and neighborhoods. Operating on a commission-based revenue model, TaskNest enhances daily chores and community engagement."
 date: 2024-09-01T01:01:01+05:30
 lastmod: 2024-09-01T01:01:01+05:30
-hidden: false
+hidden: true
 tags:
   - Business
   - Technology
 ---
-
-# TaskNest White Paper
 
 ## 1. Introduction
 
