@@ -17,9 +17,8 @@ tags:
 
 **Overview:** TaskNest is Your Hyper-Local Community Platform where Real People Get Things Done. Think of it as a Quest Board ripped straight out of an RPG, except instead of Slaying Dragons, You’re finding someone to do Your Laundry, Walk Your Dog, or help You finish that Project You’ve been avoiding. It’s a Commission-Based Marketplace that lets You hand off Your Chores to People who know how to Get Things Done without the usual BS. We’re starting in India, but this thing is built to Scale—because why think small?
 
-**Founders:**
+**Team:**
 - **Shreyash Gavali** - Founder and CEO.
-- **Prachi Gavali** - Co-Founder and Founder's Sister.
 
 **Contact Information:**
 - **Shreyash Gavali:**
