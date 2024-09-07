@@ -13,7 +13,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 const { page } = Astro.props;
 ---
 
-<ScaffoldLayout title="Blog" description="Latest articles." currentNav="Blog">
+<ScaffoldLayout title="Blog" description="Latest Articles." currentNav="Blog">
 	{page.data.map((post) => <PostCard {...post} />)}
 	<Paginator {...page} />
 </ScaffoldLayout>
