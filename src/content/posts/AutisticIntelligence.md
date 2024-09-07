@@ -1,9 +1,9 @@
 ---
 title: "Autistic Intelligence: The Pitfalls of Data Scraping and Bias"
 slug: autistic-intelligence
-description: Think machine learning is the future? Think again. From GPT-4chan’s descent into Internet hell to Microsoft’s Tay becoming Twitter’s worst nightmare and Google’s facepalm-worthy gorilla fiasco, the reality of AI training is a dumpster fire of trolling and bias. This post dives into how AI models can go from cutting-edge to cutting-crap because of the garbage data they’re fed. It’s not just a bug. It’s a feature of our digital dumpster. Strap in as we dissect these AI trainwrecks and explore why fixing them feels like slapping Band-Aids on a sinking ship. 
-date: 2024-09-05T15:30:00+05:30
-lastmod: 2024-09-05T19:45:15+05:30
+description: "This blog dives into the Absurdity of Machine Learning flaws, exploring why Trolling and Bias wreak havoc on datasets. It’s a blunt, no-nonsense look at the mess AI systems are in and why we should all be fed up with the state of Artificial Intelligence training."
+date: 2024-09-04T15:30:00+05:30
+lastmod: 2024-09-04T19:45:15+05:30
 hidden: false
 tags:
   - News
