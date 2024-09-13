@@ -253,3 +253,61 @@ These Are Test Emojis.
 :see_no_evil:
 :smile_cat:
 :watermelon:
+
+```html
+    </head>
+    <body>
+        <script type="text/javascript">
+                document.write("Hello World!");
+                //comment line ………this is comment  
+        </script>
+    </body>
+</html>
+
+<html>
+<body>
+<script>
+var d=new Date();
+document.write(d);
+</script>
+</body>
+</html>
+
+<html>
+<head>
+<script>
+function myFunction()
+{
+alert("HELLO!");
+}
+</script>
+</head>
+<body>
+<input type="button"onclick="myFunction()"value="show me
+the alert box"/>
+</body>
+</html>
+
+<html>
+<body>
+<p>Click the button to display a confirm box.</p>
+<button onclick="myFunction()">try it</button>
+<p id="demo"></p>
+<script>
+function myFunction()
+{var x;
+var r=confirm("press a button");
+if(r==true)
+{
+x="you pressed OK";
+}
+else
+{
+x="you pressed cancel";
+}
+document.getElementById("demo").innerHTML=x;
+}
+</script>
+</body>
+</html>
+```
