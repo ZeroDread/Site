@@ -2,8 +2,8 @@
 title: "Top 50 Movies Of All Time: The Only List That Matters"
 slug: movies
 description: "This blog dives into the sheer insanity of cinema, exploring how classic films like Fight Club and The Matrix hold up a mirror to society’s darkest flaws, while flicks like American Psycho and Nightcrawler expose the rotten core of consumerism and ambition. It’s a raw, no-bullshit breakdown of how movies have been calling out humanity’s failures for decades, and why we should all be questioning the systems we live under, one mind-fuck at a time."
-date: 2024-15-09T19:30:01+05:30
-lastmod: 2024-15-09T19:30:10+05:30
+date: 2024-09-15T19:30:01+05:30
+lastmod: 2024-09-15T19:30:10+05:30
 hidden: false
 tags:
   - Trends
