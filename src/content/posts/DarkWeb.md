@@ -1,5 +1,5 @@
 ---
-title: "Telegram Founder’s Arrest: Why This is Absolute Bullshit and Why You Should Care"
+title: "Piracy and Darkweb Markets: Why Criminalizing Them Is Complete Bullshit and Why It Doesn't Even Matter"
 slug: piracy-privacy
 description: "This blog dives into the insanity of piracy and darkweb markets, exploring why criminalizing them is utterly absurd. It’s a raw, no-bullshit look at how these platforms expose society’s desperate need for freedom and access. Instead of fearing the chaos, we should recognize the inevitability of human behavior in a rigged system."
 date: 2024-09-20T23:30:00+05:30
