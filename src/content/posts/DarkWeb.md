@@ -19,7 +19,7 @@ Let's be real: **Piracy** and **Darkweb Marketplaces** aren't the problems every
 
 ---
 
-## **The Real Motive: Breaking Free From Chains That Don’t Make Sense**
+# **The Real Motive: Breaking Free From Chains That Don’t Make Sense**
 
 Why do people pirate? It’s not because they’re some moral degenerates. It’s because the system has made it impossible to access things **fairly**. Whether it's **regional restrictions**, **paywalls**, or just **overpriced garbage**, people are being forced into a corner. You don’t give them what they want, so they take it. **Simple as that**. 
 
@@ -29,7 +29,7 @@ The truth is, none of this is about right or wrong. It’s about **control**. Yo
 
 ---
 
-## **Crime Doesn’t Disappear—It Just Evolves**
+# **Crime Doesn’t Disappear—It Just Evolves**
 
 You think shutting down a darkweb market solves the problem? **Cute.** Close one, and three more pop up the next day. The more you try to suppress it, the more it grows. It’s not about stopping crime—it’s about **pushing it out of sight**. If you decriminalize these activities, you bring them out into the open where they can be **regulated**, **taxed**, and—dare I say—**made safer**. But no one really wants that, do they? 
 
@@ -37,7 +37,7 @@ People cling to this idea of “right” and “wrong,” but those concepts are
 
 ---
 
-## **The Economy? Who Cares?**
+# **The Economy? Who Cares?**
 
 Let’s get this out of the way: No one gives a damn about the **economy**. At least, not in the way people pretend to. The truth is, these darkweb markets and piracy networks pump billions into the underground economy, and if they were regulated, they could be pumping billions into the **actual** economy. But guess what? That doesn’t matter. None of this matters.
 
@@ -47,7 +47,7 @@ But let’s consider the *potential benefits* of these markets. If we take a ste
 
 ---
 
-## **Privacy, Data Broking, and the Moral Vacuum**
+# **Privacy, Data Broking, and the Moral Vacuum**
 
 Let’s not even get started on the **hypocrisy** around data privacy. We’re living in a world where **everyone's data is being harvested** and sold to the highest bidder, and no one says a word about it. But the minute it happens on the darkweb? Suddenly, it’s a crime. **Give me a break**. 
 
@@ -57,7 +57,7 @@ In this twisted reality, selling data becomes an act of **rebellion** against an
 
 ---
 
-## **What Comes Next: A Future We Can’t Stop**
+# **What Comes Next: A Future We Can’t Stop**
 
 If you’re still holding onto the idea that piracy or darkweb trading can be stopped, you’ve already lost. These platforms aren’t going anywhere, and trying to crush them is like trying to stop the wind. It’s a fool’s game. 
 
