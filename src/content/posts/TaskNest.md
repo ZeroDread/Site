@@ -11,7 +11,7 @@ tags:
   - Technology
 ---
 
-## Introduction
+# Introduction
 
 **Name:** TaskNest
 
@@ -28,13 +28,13 @@ tags:
 
 ---
 
-## Problem Statement
+# Problem Statement
 
 Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and the thousand little Tasks that never seem to end. The so-called “Solutions” out there either treat You like another Cog in the Corporate Machine or expect You to trust a Random Stranger off the street. It’s a mess. You’re left choosing between Apps that are as soulless as they are inefficient, or just giving up and doing everything Yourself. The result? Chaos, Inefficiency, and the general feeling that Life’s a constant uphill battle.
 
 ---
 
-## Solution
+# Solution
 
 **TaskNest** is here to cut through the Crap:
 1. **Task Posting:** Got a Job You Hate? Post It.
@@ -44,7 +44,7 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Core Features
+# Core Features
 
 1. **User Profiles:**
    - Your Skills, Interests, and a bit of Personality—if You have any.
@@ -85,7 +85,7 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Tech Stack and Technology
+# Tech Stack and Technology
 
 **Frontend:**
 - **React Native:** Building a Mobile App that doesn’t make You want to throw Your phone.
@@ -123,7 +123,7 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Investment and Financials
+# Investment and Financials
 
 **Initial Investment:**
 - Estimated Funding Required: **$40,000 - $60,000** to keep this machine running for the First Year.
@@ -155,7 +155,7 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Future Features and Expansion
+# Future Features and Expansion
 
 **AI and Machine Learning Integration:**
 - **Personalized Recommendations:** AI that actually gets You.
@@ -172,7 +172,7 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Expansion Plan
+# Expansion Plan
 
 **International Expansion:**
 - **Market Research:** Find the Markets where People still care about their Neighbors.
@@ -190,7 +190,7 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Revenue Model
+# Revenue Model
 
 **Commission-Based Model:**
 - **Flat Rate Commission:** We take a **15% Cut** on every Transaction. Simple, clean, and sustainable.
@@ -209,6 +209,6 @@ Life in India isn’t exactly a Cakewalk. You’re juggling Work, Family, and th
 
 ---
 
-## Conclusion
+# Conclusion
 
 TaskNest is not just another Gig Economy platform; it’s a way of getting things done that actually respects Your time, Your money, and Your sanity. We’re starting in India because that’s where we live and breathe, but the vision is global. This isn’t just about connecting people—it’s about creating a system that works for the world we live in today, without the corporate BS. With the right support, this can be the next big thing—both at home and abroad.
