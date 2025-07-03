@@ -1,5 +1,6 @@
 ---
 title: "Delivate — Where Borders End"
+slug: delivate
 description: "Delivate is a global shopping and parcel forwarding platform built for Indian consumers. We provide users with international warehouse addresses (US, UK, Japan, China, etc.), handle customs and shipping, and deliver purchases directly to their doorstep in India. For complex websites or auctions, our concierge shopping service places orders on behalf of users. Delivate simplifies international shopping with transparent pricing, smart consolidation, and seamless logistics."
 date: 2025-07-01T00:00:00+05:30
 lastmod: 2024-07-05T00:00:00+05:30
