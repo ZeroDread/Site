@@ -1,6 +1,6 @@
 ---
-title: "Portify — The Ultimate Investor Pitch Deck"
-description: "Portify is a global shopping and parcel forwarding platform built for Indian consumers. We provide users with international warehouse addresses (US, UK, Japan, China, etc.), handle customs and shipping, and deliver purchases directly to their doorstep in India. For complex websites or auctions, our concierge shopping service places orders on behalf of users. Portify simplifies international shopping with transparent pricing, smart consolidation, and seamless logistics."
+title: "Delivate — Where Borders End"
+description: "Delivate is a global shopping and parcel forwarding platform built for Indian consumers. We provide users with international warehouse addresses (US, UK, Japan, China, etc.), handle customs and shipping, and deliver purchases directly to their doorstep in India. For complex websites or auctions, our concierge shopping service places orders on behalf of users. Delivate simplifies international shopping with transparent pricing, smart consolidation, and seamless logistics."
 date: 2025-07-01T00:00:00+05:30
 lastmod: 2024-07-05T00:00:00+05:30
 hidden: true
@@ -14,13 +14,13 @@ tags:
   <img src="https://imgs.xkcd.com/comics/online_package_tracking.png" alt="Online Package Tracking">
 </p>
 
-# 🌐 Portify — Global Shopping Made Effortless
+# 🌐 Delivate — Where Borders End.
 
 > *"Where the world shops, and India receives."*
 
-Portify is India's first modern platform for international shipping, consolidation, and personal concierge shopping—designed to let Indian consumers shop from **any global store**, track their purchases, and have them delivered hassle-free.
+Delivate is India's first modern platform for international shipping, consolidation, and personal concierge shopping—designed to let Indian consumers shop from **any global store**, track their purchases, and have them delivered hassle-free.
 
-With an obsession for great user experience and deep market understanding, Portify combines the **global logistics of forwarding**, the **authenticity and valuation model of resale platforms**, and the **concierge utility of luxury marketplaces**—all wrapped into one.
+With an obsession for great user experience and deep market understanding, Delivate combines the **global logistics of forwarding**, the **authenticity and valuation model of resale platforms**, and the **concierge utility of luxury marketplaces**—all wrapped into one.
 
 Built for scalability. Built for transparency. Built for India.
 
@@ -57,7 +57,7 @@ We eliminate these frictions. Seamlessly.
 
 ---
 
-## 3. 📦 Solution: Portify
+## 3. 📦 Solution: Delivate
 
 ### A full-stack shipping & concierge platform with 4 pillars:
 
@@ -203,7 +203,7 @@ We partner with **3PL warehouse services** to lease addresses & process inbound 
 
 ## 11. 🌍 Addressing the Market Gaps
 
-| Gap in Market                                | Portify’s Edge                                  |
+| Gap in Market                                | Delivate’s Edge                                  |
 |----------------------------------------------|-------------------------------------------------|
 | Hidden customs charges                        | Transparent, upfront flat rates                 |
 | Slow or delayed tracking                      | Real-time dashboard with predictive ETAs        |
@@ -252,7 +252,7 @@ We partner with **3PL warehouse services** to lease addresses & process inbound 
 ## 14. 🔒 Legal, Tax, and Compliance
 
 - **Company Type:** Private Limited (India)
-- **Trademark:** Portify™ (being filed)
+- **Trademark:** Delivate™ (being filed)
 - **IEC:** Active for import-export compliance
 - **GST:** Registered for B2C operations
 - **Customs Agent Partner:** via CHA agreement
@@ -292,7 +292,7 @@ Contact: [Shreyash@ZeroDread.dev](mailto:Shreyash@ZeroDread.dev)
 - Mobile App: Full concierge + tracking interface
 - Luxury Vault: Verified resale of fashion, streetwear, rare items
 - Repackaging Intelligence: Reduce DIM weight before shipment
-- Vendor Tools: International sellers list on Portify India
+- Vendor Tools: International sellers list on Delivate India
 - AI Customs Estimator: Based on past product metadata
 - Marketplace: Pre-order auctions + verified drop tracking
 
