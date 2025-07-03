@@ -10,6 +10,10 @@ tags:
   - PitchDeck
 ---
 
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/online_package_tracking.png" alt="Online Package Tracking">
+</p>
+
 # 🌐 Portify — Global Shopping Made Effortless
 
 > *"Where the world shops, and India receives."*
@@ -122,7 +126,7 @@ We eliminate these frictions. Seamlessly.
 | 🚀 Feature                       | 🧠 Functionality                                                  |
 |----------------------------------|-------------------------------------------------------------------|
 | International Warehouses         | USA, UK, Japan, Hong Kong, China, UAE, Europe                    |
-| Per-User Addressing              | Unique ID-based address labeling (e.g. SHRY-ZERO-HK)             |
+| Per-User Addressing              | Unique ID-based address labeling (e.g. Z3r0Dr34d)             |
 | Dashboard Package Tracking       | Multi-stage: Waiting > Transit > India Hub > Delivered           |
 | Consolidation Engine             | Merge orders from same country into a single optimized shipment  |
 | All-Inclusive Pricing            | Flat per-kg rate including customs, taxes, clearance             |
@@ -199,8 +203,6 @@ We partner with **3PL warehouse services** to lease addresses & process inbound 
 
 ## 11. 🌍 Addressing the Market Gaps
 
-> Not naming competitors—just what they lack.
-
 | Gap in Market                                | Portify’s Edge                                  |
 |----------------------------------------------|-------------------------------------------------|
 | Hidden customs charges                        | Transparent, upfront flat rates                 |
@@ -229,7 +231,7 @@ We partner with **3PL warehouse services** to lease addresses & process inbound 
 - Founder-led AMA threads
 
 ### 💬 Customer Support:
-- WhatsApp + Live chat via Intercom
+- WhatsApp/Discord + Live chat via Website
 - Concierge dashboard ticketing
 - Transparent help docs
 
