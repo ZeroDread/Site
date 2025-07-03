@@ -343,4 +343,5 @@ Investment, GTM support, intros to sellers/logistics partners, press, PR.
 ## 📩 Let’s Talk
 
 Want to be part of India’s global shopping revolution?
+
 📧 [Shreyash@ZeroDread.dev](mailto:Shreyash@ZeroDread.dev)
